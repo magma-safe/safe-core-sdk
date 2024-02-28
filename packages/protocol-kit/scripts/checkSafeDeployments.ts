@@ -31,8 +31,8 @@ function getLocalNetworksConfig(): string[] {
 function checkConfigDiff() {
   const safeDeployments = getSafeDeploymentNetworks()
   const localNetworks = getLocalNetworksConfig()
-
   const chainIdsMissingDiff = safeDeployments.filter((chainId) => !localNetworks.includes(chainId))
+
   if (chainIdsMissingDiff.length > 0) {
     const errorMessage = `EIP-3770 local config is missing chainIds: ${chainIdsMissingDiff}`
     throw new Error(errorMessage)

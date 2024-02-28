@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SafeStorage",
+  "sourceName": "@safe-global/safe-contracts-v1.4.1/contracts/libraries/SafeStorage.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220f7660f775e537ad23f44901cf4c28e3931288bb999483d317dfd51cd47344b6964736f6c63430008000033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220f7660f775e537ad23f44901cf4c28e3931288bb999483d317dfd51cd47344b6964736f6c63430008000033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

@@ -22,6 +22,10 @@ export const networks: NetworkShortName[] = [
   { chainId: 41n, shortName: 'telosevmtestnet' },
   { chainId: 42n, shortName: 'kov' },
   { chainId: 44n, shortName: 'crab' },
+
+  { chainId: 10242n, shortName: 'nothing' },
+  { chainId: 4202n, shortName: 'nothing2' },
+
   { chainId: 46n, shortName: 'darwinia' },
   { chainId: 50n, shortName: 'xdc' },
   { chainId: 51n, shortName: 'txdc' },
@@ -188,7 +192,8 @@ export const networks: NetworkShortName[] = [
   { chainId: 1666600000n, shortName: 'hmy-s0' },
   { chainId: 1666700000n, shortName: 'hmy-b-s0' },
   { chainId: 11297108099n, shortName: 'tpalm' },
-  { chainId: 11297108109n, shortName: 'palm' }
+  { chainId: 11297108109n, shortName: 'palm' },
+  { chainId: 6969696969n, shortName: 'magma-testnet' }
 ]
 
 if (process.env.TEST_NETWORK === 'hardhat') {

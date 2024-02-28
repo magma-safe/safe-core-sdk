@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Executor",
+  "sourceName": "contracts/safe_V1_1_1/base/Executor.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a7231582097a13a7a3e57fbefe3b88ae17eda124d9098b8d2c2133ce7652548c8ee24858764736f6c63430005110032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a7231582097a13a7a3e57fbefe3b88ae17eda124d9098b8d2c2133ce7652548c8ee24858764736f6c63430005110032",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

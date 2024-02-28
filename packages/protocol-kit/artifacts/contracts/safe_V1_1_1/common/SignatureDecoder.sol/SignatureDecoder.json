@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SignatureDecoder",
+  "sourceName": "contracts/safe_V1_1_1/common/SignatureDecoder.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a72315820886199a626b43a45b41ef457d58e804a00da3a0d71be45bfde9e6e2abec6b30464736f6c63430005110032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a72315820886199a626b43a45b41ef457d58e804a00da3a0d71be45bfde9e6e2abec6b30464736f6c63430005110032",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

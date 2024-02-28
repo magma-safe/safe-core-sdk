@@ -1,0 +1,29 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Executor",
+  "sourceName": "contracts/safe_V1_0_0/base/Executor.sol",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "address",
+          "name": "newContract",
+          "type": "address"
+        }
+      ],
+      "name": "ContractCreation",
+      "type": "event"
+    },
+    {
+      "payable": true,
+      "stateMutability": "payable",
+      "type": "fallback"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603b80601d6000396000f3fe608060405200fea265627a7a723158206fcd1c70f1d3c2796906d0d5dec0306e1e3ca05973c87a142acf9bdc144367a864736f6c63430005110032",
+  "deployedBytecode": "0x608060405200fea265627a7a723158206fcd1c70f1d3c2796906d0d5dec0306e1e3ca05973c87a142acf9bdc144367a864736f6c63430005110032",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
